@@ -216,6 +216,7 @@ a{
    align-items: center;
 }
 
+
 .movies-pagination-box button:disabled {
    border: 1px solid var(--text-form);
    background-color: var(--bg-body);
